@@ -37,6 +37,25 @@ git clone https://github.com/laogu-caibao/laogu-fund.git
 
 ---
 
+## English
+
+**laogu-fund — Fund health check.** Three checks in one pass: fund diagnosis, manager behavior audit, and dollar-cost-averaging simulation, in Chinese. Install: `npx skills add laogu-caibao/laogu-fund`.
+
+## FAQ
+
+**Q：laogu-fund 有什么用？**
+适合的场景：买一只基金之前先做体检：基金本身健不健康、基金经理行为如何、定投测算结果怎样。
+
+**Q：数据可靠吗？会荐股吗？**
+数字必须来自可核验的公开来源（上市公司公告、交易所公开数据、公开网页），取不到就标「未核验」，绝不编造；只做结构化整理与解读，不构成投资建议。
+
+**Q：怎么安装？支持哪些 AI 平台？**
+```bash
+npx skills add laogu-caibao/laogu-fund
+```
+平台中立 Markdown，Claude Code、Codex、豆包智能体、Workbuddy、扣子 Coze、Trae 等环境均可用；数据能力可用 [laogu-mcp](https://github.com/laogu-caibao/laogu-mcp)（`uvx laogu-mcp`）一次装齐。更多 skill 见[老谷拆财报组织主页](https://github.com/laogu-caibao)。
+---
+
 ## 出品
 
 **老谷拆财报** —— 以数据为刃，剖市场真相
