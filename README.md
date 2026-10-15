@@ -30,6 +30,8 @@ git clone https://github.com/laogu-caibao/laogu-fund.git
 ```
 
 - ZIP 下载：https://github.com/laogu-caibao/laogu-fund/archive/refs/heads/main.zip
+> 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/laogu-caibao/laogu-fund）。
+
 - 一键安装命令：`npx skills add laogu-caibao/laogu-fund`
 - 扣子（Coze）：扣子编程 → 技能面板 → 创建技能 → 本地上传（仓库根目录已有 SKILL.md，直接压缩仓库文件夹即可）；页面要求 `.skill` 后缀时由扣子导入后自动生成，**不要只改 zip 扩展名**
 - Trae：设置 → 技能 → 上传技能（同上 zip）；或手动放到 `~/.trae/skills/laogu-fund/`（TRAE Work 国区版路径为 `~/.trae-cn/skills/laogu-fund/`）
