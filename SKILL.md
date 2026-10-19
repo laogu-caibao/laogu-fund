@@ -1,5 +1,8 @@
 ---
 name: "laogu_fund"
+slug: "laogu-fund"
+version: "1.0.1"
+displayName: "基金诊断"
 description: "基金诊断：输入基金代码/名称，一次输出基金体检（净值/回撤/费率/规模/持仓集中度）、基金经理行为审计（买卖点/风格剥离/造神检测，方法论借鉴 MIT 项目 fund-guy-skill）、定投测算。fund diagnosis, manager audit, DCA calculator。"
 ---
 
